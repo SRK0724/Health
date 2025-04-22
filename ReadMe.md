@@ -51,7 +51,7 @@ The dataset contains over **50,000 patient records** with the following key attr
 ## 📊 Project Preview
 
 
-![Dashboard Preview](./dashboard_screenshot.png)
+![Dashboard Preview](https://github.com/SRK0724/Health/blob/main/Screenshot%202025-04-22%20180407.png)
 
 ## 📥 Download Dataset
 
