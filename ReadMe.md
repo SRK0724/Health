@@ -44,10 +44,19 @@ The dataset contains over **50,000 patient records** with the following key attr
 ## 📊 Tools Used
 
 - Microsoft Excel (Data Cleaning, Pivot Tables, Dashboarding)
-- Python (Pandas for preprocessing)
 - GitHub (Version Control & Project Hosting)
 
 ---
+
+## 📊 Project Preview
+
+
+![Dashboard Preview](./dashboard_screenshot.png)
+
+## 📥 Download Dataset
+
+- [Click here to download hospital_patient_data.xlsx](./hospital_patient_data.xlsx)
+
 
 ## 📁 Folder Structure
 
