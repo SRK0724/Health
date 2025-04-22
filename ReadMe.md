@@ -79,5 +79,5 @@ The dataset contains over **50,000 patient records** with the following key attr
 For queries or collaboration, contact:  
 **Sivaramakrishna Bandla**  
 📧 sivaramakrishnabandla970@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/sivaramakrishnabandla)
+🔗 [LinkedIn](https://www.linkedin.com/in/sivaramakrishnacareergpt)
 
