@@ -55,7 +55,7 @@ The dataset contains over **50,000 patient records** with the following key attr
 
 ## 📥 Download Dataset
 
-- [Click here to download hospital_patient_data.xlsx](./hospital_patient_data.xlsx)
+- [Click here to download hospital_patient_data.xlsx](https://github.com/SRK0724/Health/blob/main/healthcare_dataset.xlsx)
 
 
 ## 📁 Folder Structure
